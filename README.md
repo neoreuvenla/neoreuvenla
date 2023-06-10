@@ -4,13 +4,16 @@
 
 ## MSc Computer Science Student || Data Science Bootcamp Graduate
 
+<br>
+
 *   :thought_balloon:  A former secondary English Language and Literature teacher undergoing a career change
 *   :earth_africa:  Based in the United Kingdom, with links to the US and Japan
 *   :mortar_board:  Universities of Southampton, Exeter, York
 *   :microscope:  Currently preparing a research proposal on the use of generative adversarial networks to preserve privacy in datasets
 *   :books:  Studying and experimenting with practical applications of Shamir's secret sharing
 
-### Skills 
+<br>
+
 <p align="center">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> 
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
