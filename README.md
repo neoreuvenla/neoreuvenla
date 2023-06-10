@@ -2,8 +2,7 @@
   <img src="header.jpg" alt="Header image">
 </p>
 
-MSc Computer Science student 
-==============================
+## MSc Computer Science student 
 Data Science Bootcamp graduate
 ================================
 
@@ -25,13 +24,3 @@ A former secondary English teacher attempting a career change
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
-                    
-
-                  ### Socials
-                  
-                  <p align="left"> <a href="https://www.github.com/neoreuvenla" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<a href="https://github.com/neoreuvenla" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neoreuvenla&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
