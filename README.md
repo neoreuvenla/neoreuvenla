@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header.jpg" alt="Header image">
+</p>
+
 Hi 👋 My name is Neil Franklin
 ==============================
 
