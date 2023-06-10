@@ -2,8 +2,6 @@
   <img src="header.jpg" alt="Header image">
 </p>
 
-## MSc Computer Science Student || Data Science Bootcamp Graduate
-
 <br>
 
 *   :thought_balloon:  A former secondary school English Language and Literature teacher undergoing a career change
