@@ -2,7 +2,8 @@
   <img src="header.jpg" alt="Header image">
 </p>
 
-# MSc Computer Science | Data Science Bootcamp
+## MSc Computer Science Student
+## Data Science Bootcamp Graduate
 
 A former secondary English teacher attempting a career change
 
