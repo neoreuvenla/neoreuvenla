@@ -6,7 +6,7 @@
 
 <br>
 
-*   :thought_balloon:  A former secondary English Language and Literature teacher undergoing a career change
+*   :thought_balloon:  A former secondary school English Language and Literature teacher undergoing a career change
 *   :earth_africa:  Based in the United Kingdom, with links to the US and Japan
 *   :mortar_board:  Universities of Southampton, Exeter, York
 *   :microscope:  Currently preparing a research proposal on the use of generative adversarial networks to preserve privacy in datasets
