@@ -2,8 +2,6 @@
   <img src="header.jpg" alt="Header image">
 </p>
 
-<br>
-
 *   :thought_balloon:  A former secondary school English Language and Literature teacher undergoing a career change
 *   :earth_africa:  Based in the United Kingdom, with links to the US and Japan
 *   :mortar_board:  Universities of Southampton, Exeter, York
