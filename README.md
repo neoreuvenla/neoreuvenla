@@ -2,14 +2,13 @@
   <img src="header.jpg" alt="Header image">
 </p>
 
-## MSc Computer Science Student
-## Data Science Bootcamp Graduate
+## MSc Computer Science Student || Data Science Bootcamp Graduate
 
 A former secondary English teacher attempting a career change
 
-*   🌍  Based in the United Kingdom, with links to the US and Japan
-*   ⚡  Currently preparing a research proposal on the use of generative adversarial networks to preserve privacy in datasets:computer:
-*   🧠  Studying and experimenting with practical applications of Shamir's secret sharing
+*   :earth_africa:  Based in the United Kingdom, with links to the US and Japan
+*   :microscope:  Currently preparing a research proposal on the use of generative adversarial networks to preserve privacy in datasets
+*   :books:  Studying and experimenting with practical applications of Shamir's secret sharing
 
 ### Skills 
 <p align="left">
